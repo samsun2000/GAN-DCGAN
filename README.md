@@ -5,6 +5,7 @@ By constructing and fine-tuning both the generator and discriminator neural netw
 introduction of the Conditional GAN adds a layer of flexibility and broadens the application spectrum. Through our iterative training process, the generator has progressively enhanced its capability to craft realistic images, successfully highlighting the potential of DCGANs and Conditional GANs in applications ranging from image generation to advanced uses such as data augmentation and anomaly detection.
 
 How to run:
+
 to run conditional DCGAN:
 Direct to root DCGAN-framework， then run python train.py
 
